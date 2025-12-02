@@ -73,7 +73,6 @@ MiniDrop/
     ├── 007_bam/
     ├── 008_count/
     ├── all_initialize_runall.sh
-    ├── pg_001_02_create_reference_myc.sh
     ├── pg_004_01_create_fastq.sh
     ├── pg_005_01_fastq2bam.sh
     ├── pg_005_02_cellbarcode_tag.sh
