@@ -1,2 +1,3 @@
-AATACAACGGTA
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0429a9d2532924bb4413809e6ddba663561c3cc20a977ff30ce8d6fd6447ccf3
+size 14
